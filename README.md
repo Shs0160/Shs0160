@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shs0160&exclude_repo=dkssud8150.github.io&layout=compact&theme=basic"/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shs0160&theme=basic&show_icons=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shs0160&theme=basic&show_icons=true" width="48%"/>
 </a>
 </div>
 <br />
