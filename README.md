@@ -13,7 +13,9 @@
 	  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" />
     <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white" />
 	  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
-    <h3>👩🏻‍💻</h3>
+	  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
+	  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=Intellij IDEA&logoColor=white" />
+    <h3>👩🏻‍💻🔗</h3>
     <a href="https://velog.io/@bsthss_0160"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
     <a href="https://www.instagram.com/s0ng_b/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   </div>
