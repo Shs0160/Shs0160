@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/badge/Dart-0175CE?style=flat&logo=Dart&logoColor=white" />
 	  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
 	  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 	  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> 
 	  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=MySQL&logoColor=white" /> 
     <h4>tools</h4>
