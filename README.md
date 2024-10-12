@@ -1,5 +1,5 @@
   <div align="center">
-    <h4>Stacks</h4>
+    <h4>✏️Stacks✏️</h4>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/Dart-0175CE?style=flat&logo=Dart&logoColor=white" />
@@ -7,7 +7,7 @@
 	  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> 
 	  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=MySQL&logoColor=white" /> 
-    <h4>Tools</h4>
+    <h4>⚒️Tools⚒️</h4>
     <img src="https://img.shields.io/badge/Visual studio code-007ACC?style=flat-square&logo=Visual studio code&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" />
     <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white" />
