@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Visual studio code-007ACC?style=flat-square&logo=Visual studio code&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" />
     <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white" />
-	  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
 	  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
 	  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=Intellij IDEA&logoColor=white" />
     <h3>🔗</h3>
